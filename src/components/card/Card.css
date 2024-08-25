@@ -1,0 +1,10 @@
+.card {
+  max-width: 400px;
+  width: 100%;
+  margin: 20px;
+  padding: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Softer shadow for better effect */
+  border-radius: 10px; /* Slightly more rounded corners */
+  background-color: #ffffff; /* White background for the card */
+  border: 1px solid #e0e0e0; /* Light border to distinguish the card from the background */
+}
